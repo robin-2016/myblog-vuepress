@@ -11,7 +11,16 @@ export default navbar([
       "Cursor使用",
       "现代IT基础设施管理（1）：Terraform初识和小试牛刀",
       "现代IT基础设施管理（2）：Terraform进阶",
-      "自动化构建镜像：Packer"
+      "自动化构建镜像：Packer",
+      {
+        text: "历史博文",
+        icon: "pen-to-square",
+        prefix: "/history/",
+        children: [
+          "制作Windows_server_2016镜像",
+          "制作Centos7镜像",
+        ],
+      },
     ],
   },
 ]);

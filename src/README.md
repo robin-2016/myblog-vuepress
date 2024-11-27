@@ -38,5 +38,5 @@ tagline: 记录学习和折腾过程
 #     desc: 自定义详细介绍
 #     link: https://你的自定义链接
 
-footer: 总点折腾点啥
+footer: 总想折腾点啥
 ---

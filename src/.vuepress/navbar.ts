@@ -15,7 +15,7 @@ export default navbar([
       {
         text: "历史博文",
         icon: "pen-to-square",
-        prefix: "/history/",
+        prefix: "history/",
         children: [
           "制作Windows_server_2016镜像",
           "制作Centos7镜像",

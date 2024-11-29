@@ -12,6 +12,7 @@ export default navbar([
       "现代IT基础设施管理（1）：Terraform初识和小试牛刀",
       "现代IT基础设施管理（2）：Terraform进阶",
       "自动化构建镜像：Packer",
+      "用VuePress在GitHub-Pages上搭建博客",
       {
         text: "历史博文",
         icon: "pen-to-square",

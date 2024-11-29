@@ -11,7 +11,7 @@ tag:
 
 # 自动化构建镜像：Packer
 
-在介绍Packer之前，先来回顾一下未使用Packer时自定义虚拟机镜像的步骤。先在本地启动一个虚拟机，从安装系统开始，再进行自定义配置或应用安装，最后封装压缩成镜像，详细操作步骤可以参考我之前写的文档，制作Centos 7镜像：[制作centos7镜像](https://robin-2016.github.io/posts/history/%E5%88%B6%E4%BD%9CCentos7%E9%95%9C%E5%83%8F.html)，制作Windows镜像：[制作Windows-server-2016镜像](https://robin-2016.github.io/posts/history/%E5%88%B6%E4%BD%9CWindows_server_2016%E9%95%9C%E5%83%8F.html)。还可以借助阿里云或华为云等公有云，可以直接运行一个虚拟机实例，再进行相关配置，最后导出镜像，使用公有云相比本地构建镜像节省了安装系统的时间，相关云配置也能减少，只需进行自定义相关配置。
+在介绍Packer之前，先来回顾一下未使用Packer时自定义虚拟机镜像的步骤。先在本地启动一个虚拟机，从安装系统开始，再进行自定义配置或应用安装，最后封装压缩成镜像，详细操作步骤可以参考我之前写的文档，[制作centos7镜像](/posts/history/%E5%88%B6%E4%BD%9CCentos7%E9%95%9C%E5%83%8F.html)，[制作Windows-server-2016镜像](/posts/history/%E5%88%B6%E4%BD%9CWindows_server_2016%E9%95%9C%E5%83%8F.html)。还可以借助阿里云或华为云等公有云，可以直接运行一个虚拟机实例，再进行相关配置，最后导出镜像，使用公有云相比本地构建镜像节省了安装系统的时间，相关云配置也能减少，只需进行自定义相关配置。
 
 不论在本地还是在云上构建虚拟机镜像，都需要很多手动操作步骤，而Packer就是为了构建镜像自动化，和Terraform一样都是HashiCorp公司出品，官网地址：[https://www.packer.io/](https://www.packer.io/)，在官网首页还提出了镜像即代码（Images as code）的概念，支持虚拟机和容器镜像构建，我体验了一下容器构建过程，相比dockerfile略显复杂难懂，推荐容器镜像还是写dockerfile，用Packer来构建虚拟机镜像，容器构建之前已经实现了自动化，虚拟机镜像构建还是手动操作，Packer能大大提高效率。下面进入实操演示。
 

@@ -25,7 +25,7 @@ GPT4All：在任何设备上运行本地 LLMs。开源且可用于商业用途�
 
 Jan：Jan 是 ChatGPT 的开源替代品，可在您的计算机上 100% 离线运行。多引擎支持（llama.cpp，TensorRTLLM）。https://github.com/janhq/jan
 
-Lobe Chat： 一个开源的、现代设计的 AI 聊天框架。支持多 AI 提供商（OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek）、知识库（文件上传/知识管理 / RAG）、多模态（Vision/TTS/插件/工件）。一键免费部署您的私人 ChatGPT/Claude 应用程序。‣
+Lobe Chat： 一个开源的、现代设计的 AI 聊天框架。支持多 AI 提供商（OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek）、知识库（文件上传/知识管理 / RAG）、多模态（Vision/TTS/插件/工件）。一键免费部署您的私人 ChatGPT/Claude 应用程序。https://github.com/lobehub/lobe-chat
 
 ai-chatbot：由 Vercel 构建的功能齐全 Next.js AI 聊天机器人。https://github.com/vercel/ai-chatbot
 
@@ -59,9 +59,7 @@ AI Shell将自然语言转换为 shell 命令的 CLI。https://github.com/Builde
 
 facefusion：行业领先的面部操作平台，生成人脸照片。https://github.com/facefusion/facefusion
 
-txtai：TXTAI 是一个用于语义搜索、LLM 编排和语言模型工作流的一体化嵌入数据库。https://github.com/neuml/txtai
-
-嵌入数据库是向量索引（稀疏和密集）、图形网络和关系数据库的联合。
+txtai：TXTAI 是一个用于语义搜索、LLM 编排和语言模型工作流的一体化嵌入数据库。嵌入数据库是向量索引（稀疏和密集）、图形网络和关系数据库的联合。https://github.com/neuml/txtai
 
 LocalAI：OpenAI、Claude 等的免费开源替代品。自托管和本地优先。OpenAI 的直接替代品（API相同），在消费级硬件上运行。无需 GPU。运行 gguf、变压器、扩散器和更多模型架构。功能： 生成文本、音频、视频、图像、语音克隆、分布式、P2P 推理。https://github.com/mudler/LocalAI
 

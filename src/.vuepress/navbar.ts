@@ -14,6 +14,7 @@ export default navbar([
       "自动化构建镜像：Packer",
       "用VuePress在GitHub-Pages上搭建博客",
       "使用Notion写博客",
+      { text: "不错的AI项目集合", icon: "pen-to-square", link: "ai-project-set" },
       {
         text: "历史文章",
         icon: "pen-to-square",

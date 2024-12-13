@@ -11,13 +11,13 @@ tag:
 
 AutoGPT：AutoGPT 的愿景是让每个人都可以使用和构建无障碍 AI。我们的使命是提供工具，以便您可以专注于重要的事情。https://github.com/Significant-Gravitas/AutoGPT
 
-Stable Diffusion web UI：图片生成Stable Diffusion web UI。https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Stable Diffusion web UI：图片生成，Stable Diffusion web UI。https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 langchain：构建上下文感知推理应用程序，AI框架。https://github.com/langchain-ai/langchain
 
 AppFlowy：使用 AI 将项目、Wiki 和团队整合在一起。AppFlowy 是一个 AI 协作工作区，您可以在不失去对数据的控制的情况下实现更多目标。Notion 的最佳开源替代品。https://github.com/AppFlowy-IO/AppFlowy
 
-Reor 是一款 AI 驱动的桌面笔记应用程序：它会自动链接相关笔记，回答笔记中的问题并提供语义搜索。所有内容都存储在本地，您可以使用类似 Obsidian 的 markdown 编辑器编辑您的笔记。https://github.com/reorproject/reor
+Reor：Reor是一款 AI 驱动的桌面笔记应用程序：它会自动链接相关笔记，回答笔记中的问题并提供语义搜索。所有内容都存储在本地，您可以使用类似 Obsidian 的 markdown 编辑器编辑您的笔记。https://github.com/reorproject/reor
 
 Ollama：启动并运行 Llama 3.3、Mistral、Gemma 2 和其他大型语言模型。https://github.com/ollama/ollama
 
@@ -47,15 +47,15 @@ Director：用于下一代视频交互和工作流程的 AI 视频代理框架�
 
 Scrapegraph-ai：基于 AI 的 Python 爬虫。https://github.com/ScrapeGraphAI/Scrapegraph-ai
 
-SWE-agent 接受 GitHub 问题并尝试使用 GPT-4 或您选择的 LM 自动修复它。它还可以用于进攻性网络安全或竞争性编码挑战。https://github.com/SWE-agent/SWE-agent
+SWE-agent：SWE-agent 接受 GitHub 问题并尝试使用 GPT-4 或您选择的 LM 自动修复它。它还可以用于进攻性网络安全或竞争性编码挑战。https://github.com/SWE-agent/SWE-agent
 
 Chat2DB：AI 驱动的数据库工具和 SQL 客户端，最热门的 GUI 客户端，支持 MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse 等。https://github.com/CodePhiliaX/Chat2DB
 
 WrenAI：一个开源 SQL AI （Text-to-SQL） 代理，使数据、产品团队能够与他们的数据聊天。https://github.com/Canner/WrenAI
 
-PremSQL 是一个开源库，旨在帮助开发人员使用小型语言模型创建安全、完全本地的文本到 SQL 解决方案。https://github.com/premAI-io/premsql
+PremSQL：PremSQL 是一个开源库，旨在帮助开发人员使用小型语言模型创建安全、完全本地的文本到 SQL 解决方案。https://github.com/premAI-io/premsql
 
-AI Shell将自然语言转换为 shell 命令的 CLI。https://github.com/BuilderIO/ai-shell
+AI Shell：AI Shell将自然语言转换为 shell 命令的 CLI。https://github.com/BuilderIO/ai-shell
 
 facefusion：行业领先的面部操作平台，生成人脸照片。https://github.com/facefusion/facefusion
 
@@ -63,13 +63,13 @@ txtai：TXTAI 是一个用于语义搜索、LLM 编排和语言模型工作流�
 
 LocalAI：OpenAI、Claude 等的免费开源替代品。自托管和本地优先。OpenAI 的直接替代品（API相同），在消费级硬件上运行。无需 GPU。运行 gguf、变压器、扩散器和更多模型架构。功能： 生成文本、音频、视频、图像、语音克隆、分布式、P2P 推理。https://github.com/mudler/LocalAI
 
-Typebot 是一个功能强大的聊天机器人构建器，您可以自行托管。https://github.com/baptisteArno/typebot.io
+Typebot：Typebot 是一个功能强大的聊天机器人构建器，您可以自行托管。https://github.com/baptisteArno/typebot.io
 
-LLaVA-CoT，一种能够自发、系统推理的视觉语言模型。https://github.com/PKU-YuanGroup/LLaVA-CoT
+LLaVA-CoT：一种能够自发、系统推理的视觉语言模型。https://github.com/PKU-YuanGroup/LLaVA-CoT
 
 RLtools：最快的深度强化学习库。https://github.com/rl-tools/rl-tools
 
-Argilla 是 AI 工程师和领域专家构建高质量数据集的协作工具，为您的 AI 模型构建高质量的数据集。https://github.com/argilla-io/argilla
+Argilla：Argilla 是 AI 工程师和领域专家构建高质量数据集的协作工具，为您的 AI 模型构建高质量的数据集。https://github.com/argilla-io/argilla
 
 awesome-llm-apps：使用 OpenAI、Anthropic、Gemini 和开源模型<带有 RAG 的超棒 code id=g1001>LLM 应用程序集合。https://github.com/Shubhamsaboo/awesome-llm-apps
 

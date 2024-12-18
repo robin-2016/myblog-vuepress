@@ -5,7 +5,7 @@ category:
   - 前端
 tag:
   - Vue
-  - 动画
+  - web动画
   - 后台管理
 ---
 
@@ -13,7 +13,7 @@ tag:
 
 最近刚看完一个Vue3的视频教程，还不错，整理最近收集与Vue相关的库或项目。
 
-awesome-vue：与 Vue.js 相关的精彩内容精选清单。‣
+awesome-vue：与 Vue.js 相关的精彩内容精选清单。https://github.com/vuejs/awesome-vue
 
 ### 组件或库
 
